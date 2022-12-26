@@ -1,0 +1,67 @@
+body{
+background: aqua;
+font: normal 15pt Rockwell
+}
+header{
+    text-align: center;
+}
+section{
+background-image: linear-gradient(45deg, blue, red);
+border-radius: 10px;
+padding: 15px;
+width: 325px;
+height: 430px;
+text-align: center;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.507);
+}
+p#result{
+    margin-top: 20px;
+   width: 315px;
+   height: 50px;
+   background-color: white;
+   text-align: end;
+   font-size:  35pt;
+   border-radius: 5px;
+}
+.button{
+    padding: 10px;
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    border-radius: 10px;
+    font-size: larger;
+    background-color: rgb(231, 225, 225);
+}
+.button2{
+    padding: 10px;
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    border-radius: 10px;
+    font-size: larger;
+    background-color: rgb(183, 248, 31);
+}
+.button:hover{
+    background-color:darkgray
+}
+.button2:hover{
+    background-color: rgb(122, 146, 14);
+}
+.button3{
+    padding: 10px;
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    border-radius: 10px;
+    font-size: larger;
+    background-color: blue;
+}
+.button3:hover{
+    background-color: rgb(17, 10, 87);
+}
+
+footer{
+    text-align: end;
+    font-style: italic;
+}
